@@ -2,40 +2,43 @@
 ## Olá!
 
 ### SOBRE MIM 😇
-- Desenvolvedor Python | Estágiario - DBMX NEGÓCIOS LTDA
+- Desenvolvedor Backend Jr. | Python | GraphQL
 - Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Impacta.
-- Atualmente estudando desenvolvimento FullStack utilizando Django e React.
+- Atualmente trabalhando no desenvolvimento de aplicações em Python para a camada de Back-For-Front implementando GraphQL.
 
 <hr>
 
 ### CONTATO 📭
 <a href="mailto:igorprovensigmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/provensigor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://wa.me/5511961725837" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 <hr>
 
 ### TECNOLOGIAS QUE USO E ESTOU ESTUDANDO 🖥️
 <table style="text-align: center">
   <tr>
+    <th>Python</th>
+    <th>GraphQL</th>
+    <th>JavaScript</th>
     <th>HTML</th>
     <th>CSS</th>
-    <th>Python</th>
     <th>Django</th>
-    <th>JavaScript</th>
-    <th>React</th>
-        <th>MySQL</th>
+    <th>MySQL</th>
     <th>SQLite</th>
+    <th>MongoDB</th>
+    <th>Redis</th>
   </tr>
   <tr>
+    <td><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"</td>
+    <td><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"</td>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"</td>
     <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"></td>
     <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"</td>
-    <td><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"</td>
     <td><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"</td>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"</td>
-    <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"</td>
-     <td><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"</td>
+    <td><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"</td>
     <td><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"</td>
+    <td><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"</td>
+    <td><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="redis"</td>
   </tr>
 </table>
 
