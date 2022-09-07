@@ -47,4 +47,4 @@
 ### MINHAS ESTATÍSTICAS 📊
 <a href="https://github.com/Ig0or">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ig0or&hide=prs,issues&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ig0or&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ig0or&langs_count=6&layout=compact&theme=tokyonight"/>
