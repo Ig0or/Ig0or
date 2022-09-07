@@ -2,9 +2,9 @@
 ## Olá!
 
 ### SOBRE MIM 😇
-- Desenvolvedor Backend Jr. | Python | GraphQL
+- Desenvolvedor Backend | Python | Node | TypeScript | GraphQL
 - Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Impacta.
-- Atualmente trabalhando no desenvolvimento de aplicações em Python para a camada de Back-For-Front implementando GraphQL.
+- Atualmente trabalhando no desenvolvimento de aplicações em Python e Node/TypeScript para a camada de Back-For-Front implementando GraphQL.
 
 <hr>
 
@@ -18,27 +18,27 @@
 <table style="text-align: center">
   <tr>
     <th>Python</th>
-    <th>GraphQL</th>
+    <th>Node</th>
+    <th>TypeScript</th>
     <th>JavaScript</th>
-    <th>HTML</th>
-    <th>CSS</th>
-    <th>Django</th>
-    <th>MySQL</th>
-    <th>SQLite</th>
-    <th>MongoDB</th>
+    <th>GraphQL</th>
     <th>Redis</th>
+    <th>MongoDB</th>
+    <th>MySQL</th>
+    <th>HTML</th>
+    <th>CSS</th>    
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"</td>
-    <td><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"</td>
+    <td><img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="node"</td>
+    <td><img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"</td>
     <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"</td>
+    <td><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"</td>
+    <td><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="redis"</td>
+    <td><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"</td>
+    <td><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"</td>    
     <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"></td>
     <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"</td>
-    <td><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"</td>
-    <td><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"</td>
-    <td><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"</td>
-    <td><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"</td>
-    <td><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="redis"</td>
   </tr>
 </table>
 
