@@ -3,7 +3,7 @@
 
 ### SOBRE MIM 😇
 - Desenvolvedor Backend | Python | Node | TypeScript | GraphQL
-- Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Impacta.
+- Graduado em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta.
 - Atualmente trabalhando no desenvolvimento de aplicações em Python e Node/TypeScript para a camada de Back-For-Front implementando GraphQL.
 
 <hr>
